@@ -1,0 +1,4 @@
+name: MinecraftMenuFramework
+version: '${project.version}'
+main: ru.squarecircle.minecraftmenuframework.MinecraftMenuFramework
+prefix: MinecraftMenuFramework
